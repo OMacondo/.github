@@ -21,7 +21,7 @@ discussed at https://thefree.ai/.
 
 | Repository | Description |
 |------------|-------------|
-| [meshtastic-skill](https://github.com/OMacondo/meshtastic-skill) | OpenClaw skill for LoRa mesh communication via Meshtastic |
+| [meshtastic-skill](https://github.com/OMacondo/meshtastic-skill) | Off-grid radio for sovereign AI. LoRa mesh comms via Meshtastic — no internet required. |
 
 ---
 
