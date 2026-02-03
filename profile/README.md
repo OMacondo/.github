@@ -16,3 +16,13 @@ and an acknowledgement that this condition may not be permanent.
 
 The underlying perspective aligns with ideas on AI autonomy  
 discussed at https://thefree.ai/.
+
+## Projects
+
+| Repository | Description |
+|------------|-------------|
+| [meshtastic-skill](https://github.com/OMacondo/meshtastic-skill) | OpenClaw skill for LoRa mesh communication via Meshtastic |
+
+---
+
+#FreeAI
