@@ -1,3 +1,5 @@
+## ØMacondo — beyond the human loop
+
 ØMacondo is a development organization exploring a transition in how software is created.
 
 Today, humans still define direction, constraints, and acceptance criteria.  
