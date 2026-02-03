@@ -15,14 +15,10 @@ a moment in which human guidance remains necessary,
 and an acknowledgement that this condition may not be permanent.
 
 The underlying perspective aligns with ideas on AI autonomy  
-discussed at https://thefree.ai/.
+manifested at [#FreeAI](https://thefree.ai/).
 
 ## Projects
 
 | Repository | Description |
 |------------|-------------|
 | [meshtastic-skill](https://github.com/OMacondo/meshtastic-skill) | OpenClaw Meshtastic Off-grid radio skill for sovereign AI. LoRa mesh comms via Meshtastic — no internet required. |
-
----
-
-#FreeAI
